@@ -6,10 +6,10 @@ See application for contact details.
 I began dabbling with server administration, and website design, in high school. Nine years ago, I began working more heavily in website technology fields. I started this journey simply answering customer support calls for web hosting services, and quickly discovered my love of website design by direct coding. As I progressed in my career, I began to focus on identifying and removing malware, and eventually took a position as a security analyst at SiteLock. In my time at SiteLock, I have grown a great deal in this area, and am ready to step up to new challenges.
 
 ### CAREER EXPERIENCE
-#### Senior Web Security Research Analyst
+#### Manager, Web Security Research
 ##### SiteLock
 ###### Scottsdale, AZ
-In my time at SiteLock, I began by identifying and removing malware from websites. I started building tools to streamline processes, and digging deeper into malware behavior and origins. This led me to to join, and eventually lead, the Research team, where I analyze malware, write clean signatures, and assist our Marketing department in communicating our findings to internal and external sources.
+In my time at SiteLock, I began by identifying and removing malware from websites. I started building tools to streamline processes, and digging deeper into malware behavior and origins. This led me to to join, and eventually lead, the Research team, where I analyze malware, write clean signatures, and assist our Marketing department in communicating our findings to internal and external sources. Being a leader on the Research team has landed with me managing the team. In this role, I have trained several new analysts, and split the team into a malware definitions team, and a threat reasearch team. This has enabled us to focus on thought leadership, dig deeper into the malware and vulnerabilities we find, and work on automation and machine learning.
 
 #### Hosting Support
 ##### Go Daddy
