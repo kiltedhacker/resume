@@ -3,13 +3,17 @@
 See application for contact details.
 ***
 ### PROFESSIONAL PROFILE
-I began dabbling with server administration, and website design, in high school. Nine years ago, I began working more heavily in website technology fields. I started this journey simply answering customer support calls for web hosting services, and quickly discovered my love of website design by direct coding. As I progressed in my career, I began to focus on identifying and removing malware, and eventually took a position as a security analyst at SiteLock. In my time at SiteLock, I have grown a great deal in this area, and am ready to step up to new challenges.
+I began my journey in website technologies by simply answering customer support calls for web hosting services in order to pay for film school. This is where I tripped and fell into cybersecurity. I began to focus on identifying and removing malware from websites, and fell in love with cybersecurity. This led to taking a position as a web security analyst. In this role, I improved my website development skills, gained a deeper understanding of malware and vulnerabilities, and grew professionally into a leadership role. I eventually moved into a new role protecting endpoints, which allowed me to expand my knowledge of ransomware and other malware beyond web-based or Linux attacks, into malware targeted for Windows and Mac. I have continued to grow and thrive as an industry leader, and am ready to step up to new challenges.
 ***
+### PROFESSIONAL AFFILIATIONS
+#### Arizona Cyber Threat Response Alliance (ACTRA)
+##### Phoenix, AZ
+As a member of ACTRA, I have completed thier Threat Unit Fellows program, and have found success in cultivating a culture of collaboration and improved communication among member organizations. Together, we have helped to ensure that cyberattacks have a minimal impact on member organizations, and that new information on attacks reaches members quickly. I have reworked internal communication processes and workflows, and have begun filling a role as one of the trainers for the Threat Unit Fellows program.
 ### CAREER EXPERIENCE
-#### Cyber Security Analyst
+#### Senior Cyber Security Researcher
 ##### Acronis
 ###### Tempe, AZ
-In my role at Acronis, I wear a number of hats. My primary focus is on monitoring specific malware families, and writing detection rules for any new variations that are found. Another major focus for me is in building community efforts toward combatting emerging threats, whether that is new malware, malicious actors, or phishing campaigns. I am also responsible for our weekly news digest and videos, and responding to media requests in a timely fashion.
+As a cybersecurity researcher, I cultivate information-sharing relationships within the cybersecurity community and utilize available resources, such as blog posts, emails, and videos, to educate the public and SMBs about current cyberthreats and best practices. The role is cross-functional, requiring strong communication and collaboration with PR, Marketing, and R&D teams internally, as well as with company Directors and C-Suite. I regularly perform deep dives into active malware and other threats, write detection rules, and perform competitive analysis and compatibility testing.
 
 #### Manager, Web Security Research
 ##### SiteLock
@@ -56,8 +60,37 @@ I built the website, and manage the server that the website is housed on. I prov
 ###### Scottsdale School of Film & Theater
 In my time at SSFT, I studied all aspects of film and television production, from scriptwriting and pre-production, to crew positions on set, and the post-production process.
 ***
+### SPEAKING ENGAGEMENTS
+**Acronis Virtual Conference: See Inside a Live Ransomware Attack Then Learn How to Prevent All of Them (EMEA)**
+2021-06-16 *Acronis*
+Live ransomware demonstration and panel on best practices for preventing attacks
+
+**Acronis Virtual Conference: See Inside a Live Ransomware Attack Then Learn How to Prevent All of Them (Americas)**
+2021-06-09 *Acronis*
+Live ransomware demonstration and panel on best practices for preventing attacks
+
+**2021 Partner Kickoff**
+2021-02-02 *Acronis*
+Moderated discussion with a panel of cybersecurity experts
+
+**AZTC Cybersecurity Summit**
+2020-12-02 *Arizona Tech Council and Arizona Cyber Threat Response Alliance*
+Panel discussion on the subject of risk management
+
 ### PUBLICATIONS
 #### Published Articles
+**Is There Hope for ICS and Supply Chain Security?**
+2021-05-24 *Security Boulevard* [Article](https://securityboulevard.com/2021/05/is-there-hope-for-ics-and-supply-chain-security/) | [Wayback Archive](https://web.archive.org/web/20210524190519/https://securityboulevard.com/2021/05/is-there-hope-for-ics-and-supply-chain-security/)
+
+**Cybersecurity Predictions For 2021**
+2021-03-17 *Cyber Defense Magazine* [Article](https://www.cyberdefensemagazine.com/cybersecurity-predictions-for-2021/) |[Wayback Archive](https://web.archive.org/web/20210318020255/https://www.cyberdefensemagazine.com/cybersecurity-predictions-for-2021/)
+
+**OSAMiner: The Apple cryptojacker that hid for five years**
+2021-01-28 *Acronis Blog* [Article](https://www.acronis.com/en-us/blog/posts/osaminer-apple-cryptojacker-hid-five-years) | [Wayback Archive](https://web.archive.org/web/20210128194804/https://www.acronis.com/en-us/blog/posts/osaminer-apple-cryptojacker-hid-five-years)
+
+**5 Ways to Protect Online Learning Environments**
+2020-10-23 *Security Boulevard* [Article](https://securityboulevard.com/2020/10/5-ways-to-protect-online-learning-environments/) | [Wayback Archive](https://web.archive.org/web/20201023191257/https://securityboulevard.com/2020/10/5-ways-to-protect-online-learning-environments/)
+
 **Securing Healthcare Data in a COVID World**  
 2020-09-01 *Security Boulevard* [Article](https://securityboulevard.com/2020/09/securing-healthcare-data-in-a-covid-world/) | [Wayback Archive](https://web.archive.org/web/20200903183508/https://securityboulevard.com/2020/09/securing-healthcare-data-in-a-covid-world/)
 
@@ -74,6 +107,19 @@ In my time at SSFT, I studied all aspects of film and television production, fro
 2017-06-02 *Infosec Island* [Article](http://www.infosecisland.com/blogview/24935-Malware-The-Gift-That-Keeps-on-Giving.html) | [Wayback Archive](https://web.archive.org/web/20170606172629/http://www.infosecisland.com/blogview/24935-Malware-The-Gift-That-Keeps-on-Giving.html)
 
 #### Contributed Content
+##### Articles containing my quotes or research
+**What Does It Take To Be a Cybersecurity Researcher?**
+2021-04-12 *The Hacker News* [Article](https://thehackernews.com/2021/04/what-does-it-take-to-be-cybersecurity.html) | [Wayback Archive](https://web.archive.org/web/20210412165613/https://thehackernews.com/2021/04/what-does-it-take-to-be-cybersecurity.html)
+
+**ASIC Cyber Attack Linked to RBNZ Breach**
+2021-01-26 *The Australian* [Article](https://www.theaustralian.com.au/business/technology/asic-cyber-attack-linked-to-rbnz-breach/news-story/fa4e38dac3db4710bc5c8a46f607aa8d) (requires subscription)
+
+**ASIC Cyber Attack Linked to RBNZ Breach**
+2021-01-26 *Daily Telegraph* [Article](https://www.dailytelegraph.com.au/business/asic-cyber-attack-linked-to-rbnz-breach/news-story/fa4e38dac3db4710bc5c8a46f607aa8d) (requires subscription)
+
+**ASIC sic’d by sickening cyber security incident**
+2021-01-26 *ITWire* [Article](https://www.itwire.com/security/asic-sic-d-by-sickening-cyber-security-incident.html) | [Wayback Archive](https://www.itwire.com/security/asic-sic-d-by-sickening-cyber-security-incident.html)
+
 **Acronis Cyber Readiness Report: Pandemic reveals cybersecurity gaps, need for new solutions**  
 2020-09-09 *Acronis Blog* [Article](https://www.acronis.com/en-us/blog/posts/acronis-cyber-readiness-report-pandemic-reveals-cybersecurity-gaps-need-new-solutions) | [Report](https://dl.acronis.com/u/rc/WP_Acronis_Cyber_Readiness_Report_EN-US_200908.pdf) | [Wayback Archive (Article)](https://web.archive.org/web/20200910215942/https://www.acronis.com/en-us/blog/posts/acronis-cyber-readiness-report-pandemic-reveals-cybersecurity-gaps-need-new-solutions) | [Wayback Archive (Report)](https://dl.acronis.com/u/rc/WP_Acronis_Cyber_Readiness_Report_EN-US_200908.pdf)
 
