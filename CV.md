@@ -74,37 +74,37 @@ I built the website, and manage the server that the website is housed on. I prov
 In my time at SSFT, I studied all aspects of film and television production, from scriptwriting and pre-production, to crew positions on set, and the post-production process.
 ***
 ### SPEAKING ENGAGEMENTS
-**Acronis Virtual Conference: See Inside a Live Ransomware Attack Then Learn How to Prevent All of Them (EMEA)**
-2021-06-16 *Acronis*
+**Acronis Virtual Conference: See Inside a Live Ransomware Attack Then Learn How to Prevent All of Them (EMEA)**  
+2021-06-16 *Acronis*  
 Live ransomware demonstration and panel on best practices for preventing attacks
 
-**Acronis Virtual Conference: See Inside a Live Ransomware Attack Then Learn How to Prevent All of Them (Americas)**
-2021-06-09 *Acronis*
+**Acronis Virtual Conference: See Inside a Live Ransomware Attack Then Learn How to Prevent All of Them (Americas)**  
+2021-06-09 *Acronis*  
 Live ransomware demonstration and panel on best practices for preventing attacks
 
-**2021 Partner Kickoff**
-2021-02-02 *Acronis*
+**2021 Partner Kickoff**  
+2021-02-02 *Acronis*  
 Moderated discussion with a panel of cybersecurity experts
 
-**AZTC Cybersecurity Summit**
-2020-12-02 *Arizona Tech Council and Arizona Cyber Threat Response Alliance*
+**AZTC Cybersecurity Summit**  
+2020-12-02 *Arizona Tech Council and Arizona Cyber Threat Response Alliance*  
 Panel discussion on the subject of risk management
 ***
 ### PUBLICATIONS
 #### Published Articles
-
+**I Triggered a Ransomware Attack – Here’s What I Learned**  
 2021-06-23 *Security Boulevard* [Article](https://securityboulevard.com/2021/06/i-triggered-a-ransomware-attack-heres-what-i-learned/) | [Wayback Archive](https://web.archive.org/web/20210623070938/https://securityboulevard.com/2021/06/i-triggered-a-ransomware-attack-heres-what-i-learned/)
 
-**Is There Hope for ICS and Supply Chain Security?**
+**Is There Hope for ICS and Supply Chain Security?**  
 2021-05-24 *Security Boulevard* [Article](https://securityboulevard.com/2021/05/is-there-hope-for-ics-and-supply-chain-security/) | [Wayback Archive](https://web.archive.org/web/20210524190519/https://securityboulevard.com/2021/05/is-there-hope-for-ics-and-supply-chain-security/)
 
-**Cybersecurity Predictions For 2021**
+**Cybersecurity Predictions For 2021**  
 2021-03-17 *Cyber Defense Magazine* [Article](https://www.cyberdefensemagazine.com/cybersecurity-predictions-for-2021/) |[Wayback Archive](https://web.archive.org/web/20210318020255/https://www.cyberdefensemagazine.com/cybersecurity-predictions-for-2021/)
 
-**OSAMiner: The Apple cryptojacker that hid for five years**
+**OSAMiner: The Apple cryptojacker that hid for five years**  
 2021-01-28 *Acronis Blog* [Article](https://www.acronis.com/en-us/blog/posts/osaminer-apple-cryptojacker-hid-five-years) | [Wayback Archive](https://web.archive.org/web/20210128194804/https://www.acronis.com/en-us/blog/posts/osaminer-apple-cryptojacker-hid-five-years)
 
-**5 Ways to Protect Online Learning Environments**
+**5 Ways to Protect Online Learning Environments**  
 2020-10-23 *Security Boulevard* [Article](https://securityboulevard.com/2020/10/5-ways-to-protect-online-learning-environments/) | [Wayback Archive](https://web.archive.org/web/20201023191257/https://securityboulevard.com/2020/10/5-ways-to-protect-online-learning-environments/)
 
 **Securing Healthcare Data in a COVID World**  
@@ -124,16 +124,16 @@ Panel discussion on the subject of risk management
 
 #### Contributed Content
 ##### Articles containing my quotes or research
-**What Does It Take To Be a Cybersecurity Researcher?**
+**What Does It Take To Be a Cybersecurity Researcher?**  
 2021-04-12 *The Hacker News* [Article](https://thehackernews.com/2021/04/what-does-it-take-to-be-cybersecurity.html) | [Wayback Archive](https://web.archive.org/web/20210412165613/https://thehackernews.com/2021/04/what-does-it-take-to-be-cybersecurity.html)
 
-**ASIC Cyber Attack Linked to RBNZ Breach**
+**ASIC Cyber Attack Linked to RBNZ Breach**  
 2021-01-26 *The Australian* [Article](https://www.theaustralian.com.au/business/technology/asic-cyber-attack-linked-to-rbnz-breach/news-story/fa4e38dac3db4710bc5c8a46f607aa8d) (requires subscription)
 
-**ASIC Cyber Attack Linked to RBNZ Breach**
+**ASIC Cyber Attack Linked to RBNZ Breach**  
 2021-01-26 *Daily Telegraph* [Article](https://www.dailytelegraph.com.au/business/asic-cyber-attack-linked-to-rbnz-breach/news-story/fa4e38dac3db4710bc5c8a46f607aa8d) (requires subscription)
 
-**ASIC sic’d by sickening cyber security incident**
+**ASIC sic’d by sickening cyber security incident**  
 2021-01-26 *ITWire* [Article](https://www.itwire.com/security/asic-sic-d-by-sickening-cyber-security-incident.html) | [Wayback Archive](https://www.itwire.com/security/asic-sic-d-by-sickening-cyber-security-incident.html)
 
 **Acronis Cyber Readiness Report: Pandemic reveals cybersecurity gaps, need for new solutions**  
