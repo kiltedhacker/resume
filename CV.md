@@ -34,6 +34,8 @@ At Terra Del Sol, I maintained the server and client management system. I also m
 Skill | Level of 10
 ------------ | -------------
 Malware Analysis | • • • • • • •  
+Cybersecurity Writing | • • • • • • • • 
+Leadership | • • • • • • • • 
 LAMP Administration | • • • • • • • •  
 PHP | • • • • • • •  
 JavaScript | • • • • •  
@@ -79,6 +81,10 @@ Panel discussion on the subject of risk management
 
 ### PUBLICATIONS
 #### Published Articles
+
+****
+2021-06-23 *Security Boulevard* [Article](https://securityboulevard.com/2021/06/i-triggered-a-ransomware-attack-heres-what-i-learned/) | [Wayback Archive](https://web.archive.org/web/20210623070938/https://securityboulevard.com/2021/06/i-triggered-a-ransomware-attack-heres-what-i-learned/)
+
 **Is There Hope for ICS and Supply Chain Security?**
 2021-05-24 *Security Boulevard* [Article](https://securityboulevard.com/2021/05/is-there-hope-for-ics-and-supply-chain-security/) | [Wayback Archive](https://web.archive.org/web/20210524190519/https://securityboulevard.com/2021/05/is-there-hope-for-ics-and-supply-chain-security/)
 
