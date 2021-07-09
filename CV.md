@@ -9,6 +9,7 @@ I began my journey in website technologies by simply answering customer support 
 #### Arizona Cyber Threat Response Alliance (ACTRA)
 ##### Phoenix, AZ
 As a member of ACTRA, I have completed thier Threat Unit Fellows program, and have found success in cultivating a culture of collaboration and improved communication among member organizations. Together, we have helped to ensure that cyberattacks have a minimal impact on member organizations, and that new information on attacks reaches members quickly. I have reworked internal communication processes and workflows, and have begun filling a role as one of the trainers for the Threat Unit Fellows program.
+***
 ### CAREER EXPERIENCE
 #### Senior Cyber Security Researcher
 ##### Acronis
@@ -23,7 +24,17 @@ In my time at SiteLock, I began by identifying and removing malware from website
 #### Hosting Support
 ##### Go Daddy
 ###### Gilbert, AZ
-I assisted customers with issues that may arise in their shared hosting accounts, as well as working the telephone, support ticket, and server support queues as needed. In my time as a Chat Support representative, I have used multiple chat applications to assist customers with everything from basic account maintenance, to creative problem solving as needed.
+I assisted customers with issues that may arise in their shared hosting accounts, as well as working the telephone, support ticket, and server support queues as needed. In this role I continued researching malware found on customer accounts, and reviewing possible attack vectors to provide suggestions to prevent future attacks.
+
+#### Chat Support
+##### Go Daddy
+###### Tempe, AZ
+ I assisted customers with troubleshooting of their domain names, shared hosting accounts, email, and billing issues. I used multiple chat applications to assist customers with everything from basic account maintenance to creative problem solving as needed. Customer contacts were more account focused during this time, but I addressed technical issues as they arose. I also helped train and coach our team in India.
+
+#### Online Support
+##### Go Daddy
+###### Gilbert, AZ
+As an Online Support agent, I assisted customers with troubleshooting of account, domain, shared hosting, and server issues, utilizing our support ticket system. In this position, I began writing scripts to automate many of the repetitive tasks I performed, allowing my team and me to become more efficient. I found myself regularly reviewing malware infections on customer sites, and determining the best way to remediate the infection.
 
 #### Server Administrator
 ##### Terra Del Sol
@@ -78,11 +89,10 @@ Moderated discussion with a panel of cybersecurity experts
 **AZTC Cybersecurity Summit**
 2020-12-02 *Arizona Tech Council and Arizona Cyber Threat Response Alliance*
 Panel discussion on the subject of risk management
-
+***
 ### PUBLICATIONS
 #### Published Articles
 
-****
 2021-06-23 *Security Boulevard* [Article](https://securityboulevard.com/2021/06/i-triggered-a-ransomware-attack-heres-what-i-learned/) | [Wayback Archive](https://web.archive.org/web/20210623070938/https://securityboulevard.com/2021/06/i-triggered-a-ransomware-attack-heres-what-i-learned/)
 
 **Is There Hope for ICS and Supply Chain Security?**
