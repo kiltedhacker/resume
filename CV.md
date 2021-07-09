@@ -8,7 +8,7 @@ I began my journey in website technologies by simply answering customer support 
 ### PROFESSIONAL AFFILIATIONS
 #### Arizona Cyber Threat Response Alliance (ACTRA)
 ##### Phoenix, AZ
-As a member of ACTRA, I have completed thier Threat Unit Fellows program, and have found success in cultivating a culture of collaboration and improved communication among member organizations. Together, we have helped to ensure that cyberattacks have a minimal impact on member organizations, and that new information on attacks reaches members quickly. I have reworked internal communication processes and workflows, and have begun filling a role as one of the trainers for the Threat Unit Fellows program.
+As a member of ACTRA, I have completed their Threat Unit Fellows program, and have found success in cultivating a culture of collaboration and improved communication among member organizations. Together, we have helped to ensure that cyberattacks have a minimal impact on member organizations, and that new information on attacks reaches members quickly. I have reworked internal communication processes and workflows, and have begun filling a role as one of the trainers for the Threat Unit Fellows program.
 ***
 ### CAREER EXPERIENCE
 #### Senior Cyber Security Researcher
