@@ -44,34 +44,36 @@ At Terra Del Sol, I maintained the server and client management system. I also m
 ### SKILLS
 Skill | Level of 10
 ------------ | -------------
-Malware Analysis | • • • • • • •  
-Cybersecurity Writing | • • • • • • • • 
-Leadership | • • • • • • • • 
-LAMP Administration | • • • • • • • •  
-PHP | • • • • • • •  
-JavaScript | • • • • •  
-Perl | • • • • •
-Python | • • • • •  
-MySQL | • • • • • • •  
-Regex | • • • • • • •  
-WordPress | • • • • • • • •  
+Malware Analysis | * * * * * * * • • •
+Cybersecurity Writing | * * * * * * * * • •
+Leadership | * * * * * * * * • •
+LAMP Administration | * * * * * * * * • •
+PHP | * * * * * * * • • •
+JavaScript | * * * * * • • • • •
+Perl | * * * * * • • • • •
+Python | * * * * * • • • • •  
+MySQL | * * * * * * * • • •
+Regex | * * * * * * • • • •
+WordPress | * * * * * * * • • •
 ***
-### VOLUNTEER EXPERIENCE
-#### Technical Director
-##### Hillsong Phoenix
-###### Phoenix, AZ
-I run the creative team during events, and troubleshoot software, computer, lighting, and audio systems when issues arise.
-
-#### Director of Things
-##### Just Be Love Project
-###### Phoenix, AZ
-I built the website, and manage the server that the website is housed on. I provide other technical services as needed for administration and project events.
+### CERTIFICATIONS
+#### Six Sigma Green Belt
+##### The Council for Six Sigma Certification (CSSC)
+###### Certification Number: PEqbg5qYw7
+***
+### PROFESSIONAL AFFILIATIONS
+#### VSRT Team Member & ARC Academy Trainer
+##### Arizona Cyber Threat Response Alliance
+I have completed the ACTRA Threat Unit Fellows program, and have found success in cultivating a culture of collaboration and communication among member organizations. I have reworked internal communication processes and workflows, and have begun filling a role as one of the trainers for the Threat Unit Fellows program.
 ***
 ### EDUCATION
 #### Certificate - Film Prodcuction with a focus on Sound Design
 ##### Film Production
 ###### Scottsdale School of Film & Theater
 In my time at SSFT, I studied all aspects of film and television production, from scriptwriting and pre-production, to crew positions on set, and the post-production process.
+***
+### COMPLETED COURSES
+#### GIAC Web Application Penetration Tester
 ***
 ### SPEAKING ENGAGEMENTS
 **Acronis Virtual Conference: See Inside a Live Ransomware Attack Then Learn How to Prevent All of Them (EMEA)**  
@@ -92,6 +94,12 @@ Panel discussion on the subject of risk management
 ***
 ### PUBLICATIONS
 #### Published Articles
+**#BHUSA or bust: Hopes and expectations for Black Hat 2021**
+2021-07-28 *Acronis Blog* [Article](https://www.acronis.com/en-us/blog/posts/bhusa-or-bust-hopes-and-expectations-black-hat-2021) | [Wayback Archive](https://web.archive.org/web/20210728172556/https://www.acronis.com/en-us/blog/posts/bhusa-or-bust-hopes-and-expectations-black-hat-2021)
+
+**Detonating Ransomware on My Own Computer (Don’t Try This at Home)**
+2021-07-14 *Bleeping Computer* [Article](https://www.bleepingcomputer.com/news/security/detonating-ransomware-on-my-own-computer-don-t-try-this-at-home/) | [Wayback Archive](https://web.archive.org/web/20210714144322/https://www.bleepingcomputer.com/news/security/detonating-ransomware-on-my-own-computer-don-t-try-this-at-home/)
+
 **I Triggered a Ransomware Attack – Here’s What I Learned**  
 2021-06-23 *Security Boulevard* [Article](https://securityboulevard.com/2021/06/i-triggered-a-ransomware-attack-heres-what-i-learned/) | [Wayback Archive](https://web.archive.org/web/20210623070938/https://securityboulevard.com/2021/06/i-triggered-a-ransomware-attack-heres-what-i-learned/)
 
