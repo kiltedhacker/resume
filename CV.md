@@ -94,10 +94,10 @@ Panel discussion on the subject of risk management
 ***
 ### PUBLICATIONS
 #### Published Articles
-**#BHUSA or bust: Hopes and expectations for Black Hat 2021**
+**#BHUSA or bust: Hopes and expectations for Black Hat 2021**  
 2021-07-28 *Acronis Blog* [Article](https://www.acronis.com/en-us/blog/posts/bhusa-or-bust-hopes-and-expectations-black-hat-2021) | [Wayback Archive](https://web.archive.org/web/20210728172556/https://www.acronis.com/en-us/blog/posts/bhusa-or-bust-hopes-and-expectations-black-hat-2021)
 
-**Detonating Ransomware on My Own Computer (Don’t Try This at Home)**
+**Detonating Ransomware on My Own Computer (Don’t Try This at Home)**  
 2021-07-14 *Bleeping Computer* [Article](https://www.bleepingcomputer.com/news/security/detonating-ransomware-on-my-own-computer-don-t-try-this-at-home/) | [Wayback Archive](https://web.archive.org/web/20210714144322/https://www.bleepingcomputer.com/news/security/detonating-ransomware-on-my-own-computer-don-t-try-this-at-home/)
 
 **I Triggered a Ransomware Attack – Here’s What I Learned**  
