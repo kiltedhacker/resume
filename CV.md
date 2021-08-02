@@ -44,17 +44,17 @@ At Terra Del Sol, I maintained the server and client management system. I also m
 ### SKILLS
 Skill | Level of 10
 ------------ | -------------
-Malware Analysis | * * * * * * * • • •
-Cybersecurity Writing | * * * * * * * * • •
-Leadership | * * * * * * * * • •
-LAMP Administration | * * * * * * * * • •
-PHP | * * * * * * * • • •
-JavaScript | * * * * * • • • • •
-Perl | * * * * * • • • • •
-Python | * * * * * • • • • •  
-MySQL | * * * * * * * • • •
-Regex | * * * * * * • • • •
-WordPress | * * * * * * * • • •
+Malware Analysis | • • • • • • • - - -
+Cybersecurity Writing | • • • • • • • • - -
+Leadership | • • • • • • • • - -
+LAMP Administration | • • • • • • • - - -
+PHP | • • • • • • • - - -
+JavaScript | • • • • • - - - - -
+Perl | • • • • • - - - - -
+Python | • • • • • - - - - -
+MySQL | • • • • • • • - - -
+Regex | • • • • • • - - - -
+WordPress | • • • • • • • - - -
 ***
 ### CERTIFICATIONS
 #### Six Sigma Green Belt
