@@ -1,5 +1,5 @@
 # TOPHER TEBOW
-## CYBER SECURITY EXPERT
+## CYBER SECURITY ANALYST
 See application for contact details.
 ***
 ### PROFESSIONAL PROFILE
@@ -11,6 +11,11 @@ I began my journey in website technologies by simply answering customer support 
 As a member of ACTRA, I have completed their Threat Unit Fellows program, and have found success in cultivating a culture of collaboration and improved communication among member organizations. Together, we have helped to ensure that cyberattacks have a minimal impact on member organizations, and that new information on attacks reaches members quickly. I have reworked internal communication processes and workflows, and have begun filling a role as one of the trainers for the Threat Unit Fellows program.
 ***
 ### CAREER EXPERIENCE
+#### Threat Analyst
+##### Defiant
+###### Remote, U.S.
+In my role as a Threat Analyst, I am responsible for utilizing available data to identify and document existing and emerging threats, including vulnerabilities, malware, and threat actors.
+
 #### Senior Cyber Security Researcher
 ##### Acronis
 ###### Tempe, AZ
@@ -57,14 +62,24 @@ Regex | • • • • • • - - - -
 WordPress | • • • • • • • - - -
 ***
 ### CERTIFICATIONS
+#### A+ ce
+##### CompTIA
+###### Candidate ID: COMP001022110179
+###### Code: YSP0KKEYBBE41MK8
+
+#### Project+
+##### CompTIA
+###### Candidate ID: COMP001022110179
+###### Code: 2YFXP64YLBFEQ535
+
 #### Six Sigma Green Belt
 ##### The Council for Six Sigma Certification (CSSC)
 ###### Certification Number: PEqbg5qYw7
-***
-### PROFESSIONAL AFFILIATIONS
-#### VSRT Team Member & ARC Academy Trainer
-##### Arizona Cyber Threat Response Alliance
-I have completed the ACTRA Threat Unit Fellows program, and have found success in cultivating a culture of collaboration and communication among member organizations. I have reworked internal communication processes and workflows, and have begun filling a role as one of the trainers for the Threat Unit Fellows program.
+
+#### Certificate in IT Service Management
+##### ITIL Foundation
+###### Certificate Number: GR671340266BT
+###### Candidate Number: 9980031616389402
 ***
 ### EDUCATION
 #### Certificate - Film Prodcuction with a focus on Sound Design
