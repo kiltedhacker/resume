@@ -1,94 +1,242 @@
 # TOPHER TEBOW
-## CYBER SECURITY ANALYST
+## CYBER THREAT HUNTER
 See application for contact details.
 ***
-### PROFESSIONAL PROFILE
-I began my journey in website technologies by simply answering customer support calls for web hosting services in order to pay for film school. This is where I tripped and fell into cybersecurity. I began to focus on identifying and removing malware from websites, and fell in love with cybersecurity. This led to taking a position as a web security analyst. In this role, I improved my website development skills, gained a deeper understanding of malware and vulnerabilities, and grew professionally into a leadership role. I eventually moved into a new role protecting endpoints, which allowed me to expand my knowledge of ransomware and other malware beyond web-based or Linux attacks, into malware targeted for Windows and Mac. I have continued to grow and thrive as an industry leader, and am ready to step up to new challenges.
+## SUMMARY
+- Experienced Cybersecurity Professional with 10+ years of expertise in web application security, endpoint threat detection, and threat intelligence.
+-	Multiple certifications, including cybersecurity analysis, penetration testing, and network security.
+-	Experienced in cross-platform detection and analysis, including Windows, Linux, and macOS.
+-	Well-versed in malware and vulnerability analysis techniques and tools.
+-	Strong experience in fast-paced environments that require speedy and accurate analysis and remediation.
+-	Ability to communicate highly technical concepts and details to a variety of audiences.
 ***
-### PROFESSIONAL AFFILIATIONS
-#### Arizona Cyber Threat Response Alliance (ACTRA)
-##### Phoenix, AZ
-As a member of ACTRA, I have completed their Threat Unit Fellows program, and have found success in cultivating a culture of collaboration and improved communication among member organizations. Together, we have helped to ensure that cyberattacks have a minimal impact on member organizations, and that new information on attacks reaches members quickly. I have reworked internal communication processes and workflows, and have begun filling a role as one of the trainers for the Threat Unit Fellows program.
+## CERTIFICATIONS
+### Security
+Certification | Issuing Organization | Certification Number
+------------ | ------------- | -------------
+Systems Security Certified Professional (SSCP) | International Information System Security Certification Consortium (ISC2) | 2002157
+CySA+ | CompTIA | 25QPHQLT22EEQ33K
+PenTest+ | CompTIA | F5W66WNT1EE4QWW8
+Security+ | CompTIA | 3WZQEMXSNEBE195G
+Network+ | CompTIA | QMTV1HBQPJR1Q39J
+A+ | CompTIA | YSP0KKEYBBE41MK8
+Linux Essentials | Linux Professional Institute | 5agtvrf82v
+
+### Project & IT
+Certification | Issuing Organization | Certification Number
+------------ | ------------- | -------------
+Certificate in IT Service Management | ITIL Foundation | GR671340266BT
+Six Sigma Green Belt | The Council for Six Sigma Certification (CSSC) | PEqbg5qYw7
+Project+ | CompTIA | 2YFXP64YLBFEQ535
 ***
-### CAREER EXPERIENCE
-#### Threat Analyst
+## TECHNICAL SKILLS OVERVIEW
+### Cybersecurity Frameworks & Standards
+- NIST CSF, MITRE ATT&CK, PCI DSS, SOC2, ISO 27001, CIS, OWWASP Web Security Testing
+### Threat Intelligence & Monitoring
+- __Threat Intelligence Technologies:__ ThreatConnect, Anomaly ThreatStream, IntSights, VirusTotal, AT&T AlienVault, IBM X-Force, Microsoft Defender Threat Intelligence, Wordfence Intelligence
+- __Threat Intelligence Standards:__ STIX, TAXII
+- __Monitoring, SIEM, & SOAR Tools:__ Google Chronicle, Siemplify, QRadar, Snort, Cortex XSOAR, Grafana, Kibana, Splunk, ThreatConnect, Elastic SIEM, Elastic Stack, Logstash
+- __OSINT Tools:__ Maltego, Shodan
+### Penetration Testing & Vulnerability Assessment
+- __DAST Tools:__ Burp Suite, OWASP ZAP, Nmap, Wireshark, BeEF, SQLmap, Metasploit
+- __SAST Tools:__ TrueCode, Veracode
+### Malware Analysis & Detection
+- __Analysis Tools:__ Cuckoo Sandbox, Procmon, Process Hacker, ANY.run, IDA Pro, X64dbg, Radare2, Ghidra, Hybrid Analysis, Joe Sandbox
+- __Detection Engines:__ YARA, HyperScan, ClamAV, Acronis
+### Development & Automation
+- __Programming & Scripting:__ Bash, PowerShell, Batch, Python, Perl, JavaScript, PHP, Lua, C, C#, Go, Rest API, Regular Expressions (Regex)
+- __Web & Design Frameworks:__ jQuery, Laravel, Angular, Bootstrap, Tailwind
+### Cloud & Virtualization Technologies
+- __Cloud Platforms:__ Amazon Web Services (AWS), Azure
+- __Virtualization & Containerization:__ Hyper-V, VMWare, VirtualBox, QEMU, oVirt, KVM, Virt-manager, Kubernetes, Docker, Vagrant
+### Operating Systems and Web Servers
+- Linux, macOS, Windows, Android, iOS, Apache, IIS, Nginx
+### Database Management
+- MySQL, SQL Server, MariaDB, SQLite, PostgreSQL
+### Collaboration Tools
+- Jira, Confluence, Git, GitHub, Bitbucket
+***
+## EDUCATION & HONORS
+### Western Governors University
+#### Bachelor of Science in Cybersecurity and Information Assurance
+##### Oct 2021 - Jul 2024
+- I obtained a B.S. degree in Cybersecurity and Information Assurance.
+- I was awarded the Excellence Award for my work in Emerging Technologies in Cybersecurity.
+### Scottsdale School of Film & Theater
+#### Associate of Arts in Film Production
+##### Jan 2012 - Jun 2015
+- I studied all aspects of film and television production, from scriptwriting and pre-production, to crew positions on set, and the post-production process.
+- I obtained 82 credit units toward an A.A. degree.
+### Order of the Sword & Shield
+The Order of the Sword & Shield National Honor Society is the largest and most respected organization representing the Homeland Security, Intelligence, Emergency Management, Cyber and Information Security, and all Protective Security disciplines.
+### National Society of Leadership and Success
+The NSLS is an organization that provides a life-changing leadership program that helps students achieve personal growth, career success, and empowers them to have a positive impact in their community.
+***
+## Community Involvement
+### InfraGard
+#### Phoenix, AZ
+##### Feb 2020 - Present
+InfraGard is a partnership between the private sector and the FBI, fostering public-private collaboration to protect critical infrastructure better.
+
+### Arizona Cyber Threat Response Alliance (ACTRA)
+#### Phoenix, AZ
+##### Feb 2020 - Present
+ACTRA leverages public and private cross-sector resources to more effectively analize critical and real-time intelligence, and respond to cyber threats.
+
+### EXITNODE
+#### Phoenix, AZ
+##### August 2024 - Present
+EXITNODE connects tech enthusiasts with a passion for connecting with others and providing a network of support for new engineers.  The philosophy is rooted in accessibility and diversity, welcoming anyone with a passion for technology.
+
+### Open Cybersecurity Alliance
+#### Phoenix, AZ
+##### April 2020 - Present
+OCA is building an open ecosystem where cybersecurity products interoperate without the need for customized integrations.
+
+### Filigran Community
+#### Phoenix, AZ
+##### July 2019 - Present
+The Filigran community is a public collaborative of cybersecurity professionals working to to provide cybersecurity and crisis management teams with the best possible software fueled by actionable threat intelligence.
+
+### CTI League
+#### Phoenix, AZ
+##### Mar 2020 - Present
+The CTI League, an all-volunteer non-profit group that focuses on aggressively dismantling cyber criminal infrastructure and protecting healthcare organizations against cyber attacks.
+
+### DC602
+#### Phoenix, AZ
+##### Aug 2018 - Present
+DC602 is a gathering point for those interested in alternate applications of modern technology, providing a space to discuss technology and security topics.
+
+### DC480
+#### Phoenix, AZ
+##### Aug 2018 - Present
+DC480 is a group of hackers, infosec professionals, and learners new to cybersecurity, coming together to learn and share experiences in cybersecurity.
+
+### PHX2600
+#### Phoenix, AZ
+##### Feb 2015 - Present
+PHX2600 is a group of hackers and technology enthusiasts who gather monthly to discuss code, tech, and other hacking related topics.
+***
+### PROFESSIONAL EXPERIENCE
+#### Cybersecurity Analyst - Threat Hunter
+##### Hybrid, Tempe, AZ
+- Play a critical role in analysis of disparate information and synthesizing into relevant actionable intelligence.
+- Ability to deliver accurate, timely and professional intelligence products.
+- Support investigative efforts within the CSOC and the Security Organization.
+- Capable communicator that can engage others both internally and externally to protect the company’s critical assets.
+- Interface with peer departments across the firm.
+- Build positive and productive relationships with the business and technology.
+- Ability to securely share actionable intelligence internally and externally while maintaining TLP.
+
+#### Cybersecurity Analyst & Technical Writer
+##### Remote, U.S.
+-	Collaboratively identified emerging cyber threats with a team of analysts and researchers.
+-	Wrote 223 threat descriptions for the Microsoft Threat Encyclopedia, ensuring accuracy and completeness.
+-	Reviewed and refined 45 threat analytics reports for the Microsoft Defender Threat Intelligence platform, maintaining Microsoft's standard for accuracy and clarity.
+-	Conducted additional research to supplement researcher data, ensuring a holistic understanding of threats.
+-	Elevated team knowledge on cybersecurity threats through meticulous research and documentation.
+-	Drove team collaboration to pinpoint and document evolving cyber threats.
+
+#### Threat Researcher
 ##### Defiant
 ###### Remote, U.S.
-In my role as a Threat Analyst, I am responsible for utilizing available data to identify and document existing and emerging threats, including vulnerabilities, malware, and threat actors.
+-	Identified and documented potential threats through log review, penetration testing, and research resources.
+-	Utilized tools like Burp Suite and ZAP to identify vulnerabilities in web applications.
+-	Used the MITRE ATT&CK framework and OWASP Top 10 to help analyze and categorize web threats.
+-	Drove threat awareness by producing key educational resources for identified threats.
+-	Boosted Defiant's threat intelligence by uncovering new trends in cybersecurity and publishing them to the Wordfence Intelligence platform.
+-	Contributed to multimedia production for educational videos, promoting cybersecurity awareness.
 
 #### Senior Cyber Security Researcher
 ##### Acronis
 ###### Tempe, AZ
-As a cybersecurity researcher, I cultivate information-sharing relationships within the cybersecurity community and utilize available resources, such as blog posts, emails, and videos, to educate the public and SMBs about current cyberthreats and best practices. The role is cross-functional, requiring strong communication and collaboration with PR, Marketing, and R&D teams internally, as well as with company Directors and C-Suite. I regularly perform deep dives into active malware and other threats, write detection rules, and perform competitive analysis and compatibility testing.
+-	Worked as a Cyber Protection Operations Center (CPOC) member to monitor and respond to alerts from AI, behavioral, and static detections across all endpoints using Acronis Cyber Protect products.
+-	Utilized regex and behavioral analysis to write malware detection rules for Acronis’ custom detection engine, significantly reducing risks to Windows, macOS, and Linux systems.
+-	Made use of custom scripts to perform penetration testing on desktop applications to identify vulnerabilities in Windows, macOS, and Linux applications.
+-	Analyzed emerging threats, utilizing tools such as Procmon, Process Hacker, IDA Pro, X64dbg, Radare2, Cuckoo Sandbox, ANY run, and VirusTotal to craft detection strategies that preemptively neutralize risks.
+-	Led a cross-functional team to educate stakeholders through videos on emerging threats and best practices.
+-	Authored technical blog posts, enhancing the company's reputation in the cybersecurity field.
+-	Strengthened community relationships, facilitating the exchange of crucial threat intelligence.
 
 #### Manager, Web Security Research
 ##### SiteLock
 ###### Scottsdale, AZ
-In my time at SiteLock, I began by identifying and removing malware from websites. I started building tools to streamline processes, and digging deeper into malware behavior and origins. This led me to to join, and eventually lead, the Research team, where I analyze malware, write clean signatures, and assist our Marketing department in communicating our findings to internal and external sources. Being a leader on the Research team has landed with me managing the team. In this role, I have trained several new analysts, and split the team into a malware definitions team, and a threat reasearch team. This has enabled us to focus on thought leadership, dig deeper into the malware and vulnerabilities we find, and work on automation and machine learning.
+-	Spearheaded the training and development of new analysts, fostering a collaborative work environment.
+-	Monitored the alert queues to ensure web threats on client websites were addressed quickly and accurately.
+-	Pioneered the optimization of processes and tools, improving efficiency.
+-	Contributed to security patch backporting and malware detection rule writing.
+-	Managed a machine learning project, showcasing innovative thinking to improve malware identification by 12%.
+-	Authored technical and thought leadership articles, exhibiting an analytical understanding of industry trends.
+-	Analyzed emerging malware trends, improving the company’s threat intelligence stance.
+
+#### Web Vulnerability Research Analyst II
+##### SiteLock
+###### Scottsdale, AZ
+-	Spearheaded security patch reviews in content management systems (CMSs), ensuring optimal system integrity.
+-	Pioneered the backporting of patches to older versions, maintaining system functionality.
+-	Constructed comprehensive test cases using Vagrant and Docker, validating patch compatibility with former application versions.
+-	Analyzed web threats through code review and penetration testing, using tools like Burp Suite, ZAP, and Metasploit, to ensure robust system security.
+-	Evaluated CMS security, leading to the identification and mitigation of new vulnerabilities.
+
+#### Web Security Research Analyst II
+##### SiteLock
+###### Scottsdale, AZ
+-	Managed alert queues to quickly mitigate emerging web threats on customer websites.
+-	Led malware analysis and signature creation for enhanced web security.
+-	Performed penetration testing on web applications to identify vulnerabilities, making use of tools like Burp Suite, ZAP, BeEF, Nmap, and Metasploit.
+-	Initiated a malware trend-tracking program, improving threat prediction accuracy.
+-	Developed and managed a suite of tools, optimizing company-wide processes.
+-	Launched a company podcast, significantly boosting brand visibility through creative media.
+-	Maintained team server and applications, ensuring optimal performance.
+
+#### Lead Web Security Analyst
+##### SiteLock
+###### Scottsdale, AZ
+-	Spearheaded team development and mentoring initiatives, including updating and developing processes and procedures.
+-	Innovated a new team division to enhance customer service and internal career progression.
+-	Monitored and managed alert queues to ensure customer websites were cleaned of malware quickly and accurately.
+-	Collaborated with IT and compliance teams to ensure cybersecurity policies aligned with regulatory requirements like SOC2 and PCI DSS.
+-	Managed and updated the knowledge base, ensuring accurate and updated information.
+-	Redesigned new hire training materials, elevating departmental knowledge and skills.
+-	Delivered technical training to new hires, fostering a proficient and competent workforce.
+-	Mentored 10+ analysts, elevating team performance and career growth.
+
+#### Web Security Analyst II
+##### SiteLock
+###### Scottsdale, AZ
+-	Managed alert queues to quickly eradicate malware from customer websites.
+-	Identified and eliminated web threats using code review and penetration testing.
+-	Advised and educated customers on best practices and processes for updating web content filtering.
+-	Streamlined operations via innovative applications in PHP and JavaScript.
+-	Mastered multiple programming languages and database formats for comprehensive threat analysis.
+-	Implemented effective problem-solving strategies to ensure website security.
 
 #### Hosting Support
 ##### Go Daddy
 ###### Gilbert, AZ
-I assisted customers with issues that may arise in their shared hosting accounts, as well as working the telephone, support ticket, and server support queues as needed. In this role I continued researching malware found on customer accounts, and reviewing possible attack vectors to provide suggestions to prevent future attacks.
+- Assisted customers with troubleshooting issues in their shared hosting accounts.
+- Provided support via chat, phone, support tickets, and server support as needed.
+- Developed several web-based applications to streamline workflow and improve efficiency.
 
 #### Chat Support
 ##### Go Daddy
 ###### Tempe, AZ
- I assisted customers with troubleshooting of their domain names, shared hosting accounts, email, and billing issues. I used multiple chat applications to assist customers with everything from basic account maintenance to creative problem solving as needed. Customer contacts were more account focused during this time, but I addressed technical issues as they arose. I also helped train and coach our team in India.
+- Assisted customers with domain, hosting, email, and billing issues through chat support.
+- Utilized multiple chat applications to handle a range of inquiries, from basic maintenance to complex problem-solving.
+- Played a key role in training and coaching the support team in India.
 
 #### Online Support
 ##### Go Daddy
 ###### Gilbert, AZ
-As an Online Support agent, I assisted customers with troubleshooting of account, domain, shared hosting, and server issues, utilizing our support ticket system. In this position, I began writing scripts to automate many of the repetitive tasks I performed, allowing my team and me to become more efficient. I found myself regularly reviewing malware infections on customer sites, and determining the best way to remediate the infection.
+- Provided customer support for account, domain, shared hosting, and server issues via support ticket system.
+- Initiated the creation of scripts to automate repetitive tasks, enhancing team efficiency and effectiveness.
 
 #### Server Administrator
 ##### Terra Del Sol
 ###### Portland, OR
-At Terra Del Sol, I maintained the server and client management system. I also managed the company website, and provided desktop support as needed.
-***
-### SKILLS
-Skill | Level of 10
------------- | -------------
-Malware Analysis | • • • • • • • - - -
-Cybersecurity Writing | • • • • • • • • - -
-Leadership | • • • • • • • • - -
-LAMP Administration | • • • • • • • - - -
-PHP | • • • • • • • - - -
-JavaScript | • • • • • - - - - -
-Perl | • • • • • - - - - -
-Python | • • • • • - - - - -
-MySQL | • • • • • • • - - -
-Regex | • • • • • • - - - -
-WordPress | • • • • • • • - - -
-***
-### CERTIFICATIONS
-#### A+ ce
-##### CompTIA
-###### Candidate ID: COMP001022110179
-###### Code: YSP0KKEYBBE41MK8
-
-#### Project+
-##### CompTIA
-###### Candidate ID: COMP001022110179
-###### Code: 2YFXP64YLBFEQ535
-
-#### Six Sigma Green Belt
-##### The Council for Six Sigma Certification (CSSC)
-###### Certification Number: PEqbg5qYw7
-
-#### Certificate in IT Service Management
-##### ITIL Foundation
-###### Certificate Number: GR671340266BT
-###### Candidate Number: 9980031616389402
-***
-### EDUCATION
-#### Certificate - Film Prodcuction with a focus on Sound Design
-##### Film Production
-###### Scottsdale School of Film & Theater
-In my time at SSFT, I studied all aspects of film and television production, from scriptwriting and pre-production, to crew positions on set, and the post-production process.
-***
-### COMPLETED COURSES
-#### GIAC Web Application Penetration Tester
+- Built website using HTML, CSS, and PHP. Maintained website, updating and troubleshooting as needed.
+- Maintained the Windows server that housed the customer management software.
 ***
 ### SPEAKING ENGAGEMENTS
 **Acronis Virtual Conference: See Inside a Live Ransomware Attack Then Learn How to Prevent All of Them (EMEA)**  
