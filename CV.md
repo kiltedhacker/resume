@@ -120,7 +120,8 @@ PHX2600 is a group of hackers and technology enthusiasts who gather monthly to d
 ***
 ### PROFESSIONAL EXPERIENCE
 #### Cybersecurity Analyst - Threat Hunter
-##### Hybrid, Tempe, AZ
+##### Charles Schwab
+###### Hybrid, Tempe, AZ
 - Play a critical role in analysis of disparate information and synthesizing into relevant actionable intelligence.
 - Ability to deliver accurate, timely and professional intelligence products.
 - Support investigative efforts within the CSOC and the Security Organization.
@@ -130,7 +131,8 @@ PHX2600 is a group of hackers and technology enthusiasts who gather monthly to d
 - Ability to securely share actionable intelligence internally and externally while maintaining TLP.
 
 #### Cybersecurity Analyst & Technical Writer
-##### Remote, U.S.
+##### Microsoft
+###### Remote, U.S.
 -	Collaboratively identified emerging cyber threats with a team of analysts and researchers.
 -	Wrote 223 threat descriptions for the Microsoft Threat Encyclopedia, ensuring accuracy and completeness.
 -	Reviewed and refined 45 threat analytics reports for the Microsoft Defender Threat Intelligence platform, maintaining Microsoft's standard for accuracy and clarity.
