@@ -134,7 +134,7 @@ PHX2600 is a group of hackers and technology enthusiasts who gather monthly to d
 ##### Microsoft
 ###### Remote, U.S.
 -	Collaboratively identified emerging cyber threats with a team of analysts and researchers.
--	Wrote 223 threat descriptions for the Microsoft Threat Encyclopedia, ensuring accuracy and completeness.
+-	Authored 223 threat descriptions for the Microsoft Threat Encyclopedia, ensuring accuracy and completeness.
 -	Reviewed and refined 45 threat analytics reports for the Microsoft Defender Threat Intelligence platform, maintaining Microsoft's standard for accuracy and clarity.
 -	Conducted additional research to supplement researcher data, ensuring a holistic understanding of threats.
 -	Elevated team knowledge on cybersecurity threats through meticulous research and documentation.
@@ -240,86 +240,120 @@ PHX2600 is a group of hackers and technology enthusiasts who gather monthly to d
 - Built website using HTML, CSS, and PHP. Maintained website, updating and troubleshooting as needed.
 - Maintained the Windows server that housed the customer management software.
 ***
-### SPEAKING ENGAGEMENTS
-**Acronis Virtual Conference: See Inside a Live Ransomware Attack Then Learn How to Prevent All of Them (EMEA)**  
+### THOUGHT LEADERSHIP
+#### Cybersecurity Podcasts
+##### Acronis Cyber Protection Operations Center News
+January 2020 - June 2022 *Acronis*  
+-	Produced 200 webisodes focused on emerging cybersecurity threats.
+-	Scripted and presented newscasts on camera, bringing complex cybersecurity topics to a broader audience.
+-	Created graphics and edited video and audio content.
+-	Published these newscasts on platforms such as YouTube.
+
+##### Decoding Security
+June 2017 - October 2018 *SiteLock*
+-	Produced 29 episodes that delved into the latest cybersecurity news and trends.
+-	Scripted and presented in-depth stories on critical cybersecurity issues.
+-	Generated graphics and managed video and audio editing.
+-	Published content across multiple platforms, including YouTube and Spotify
+
+#### Speaking Engagements
+##### Acronis Virtual Conference: See Inside a Live Ransomware Attack Then Learn How to Prevent All of Them (EMEA)
 2021-06-16 *Acronis*  
 Live ransomware demonstration and panel on best practices for preventing attacks
 
-**Acronis Virtual Conference: See Inside a Live Ransomware Attack Then Learn How to Prevent All of Them (Americas)**  
+##### Acronis Virtual Conference: See Inside a Live Ransomware Attack Then Learn How to Prevent All of Them (Americas)
 2021-06-09 *Acronis*  
 Live ransomware demonstration and panel on best practices for preventing attacks
 
-**2021 Partner Kickoff**  
+##### 2021 Partner Kickoff
 2021-02-02 *Acronis*  
 Moderated discussion with a panel of cybersecurity experts
 
-**AZTC Cybersecurity Summit**  
+##### AZTC Cybersecurity Summit
 2020-12-02 *Arizona Tech Council and Arizona Cyber Threat Response Alliance*  
 Panel discussion on the subject of risk management
-***
-### PUBLICATIONS
+
 #### Published Articles
-**#BHUSA or bust: Hopes and expectations for Black Hat 2021**  
+##### Cross-Site Scripting Vulnerability In Download Manager Plugin
+2021-06-07 *Wordfence Blog* [Article](https://www.wordfence.com/blog/2022/06/security-vulnerability-download-manager-plugin/)
+
+##### The Cybersecurity CIA Triad: What You Need to Know as a WordPress Site Owner
+2021-06-01 *Wordfence Blog* [Article](https://www.wordfence.com/blog/2022/06/the-cybersecurity-cia-triad-what-you-need-to-know-as-a-wordpress-site-owner/)
+
+##### Your CEO Isn't Real: How to Deal With Deep Fakes
+2021-12-06 *Security Boulevard* [Article](https://securityboulevard.com/2021/12/your-ceo-isnt-real-how-to-deal-with-deep-fakes/)
+
+##### Ransomware happens, be prepared: Preventing a LockBit attack
+2021-09-30 *Adam Fowler IT* [Article](https://www.adamfowlerit.com/2021/09/ransomware-happens-be-prepared-preventing-a-lockbit-attack/)
+
+##### Recovering from a LockBit Ransomware Attack
+2021-09-23 *Adam Fowler IT* [Article](https://www.adamfowlerit.com/2021/09/recovering-from-a-lockbit-ransomware-attack/)
+
+##### No user too small to target: A look at the new LockBit ransomware
+2021-09-16 *Adam Fowler IT* [Article](https://www.adamfowlerit.com/2021/09/no-user-too-small-to-target-a-look-at-the-new-lockbit-ransomware/)
+
+##### #BHUSA or bust: Hopes and expectations for Black Hat 2021
 2021-07-28 *Acronis Blog* [Article](https://www.acronis.com/en-us/blog/posts/bhusa-or-bust-hopes-and-expectations-black-hat-2021) | [Wayback Archive](https://web.archive.org/web/20210728172556/https://www.acronis.com/en-us/blog/posts/bhusa-or-bust-hopes-and-expectations-black-hat-2021)
 
-**Detonating Ransomware on My Own Computer (Don’t Try This at Home)**  
+##### Detonating Ransomware on My Own Computer (Don’t Try This at Home)**  
 2021-07-14 *Bleeping Computer* [Article](https://www.bleepingcomputer.com/news/security/detonating-ransomware-on-my-own-computer-don-t-try-this-at-home/) | [Wayback Archive](https://web.archive.org/web/20210714144322/https://www.bleepingcomputer.com/news/security/detonating-ransomware-on-my-own-computer-don-t-try-this-at-home/)
 
-**I Triggered a Ransomware Attack – Here’s What I Learned**  
+##### I Triggered a Ransomware Attack – Here’s What I Learned
 2021-06-23 *Security Boulevard* [Article](https://securityboulevard.com/2021/06/i-triggered-a-ransomware-attack-heres-what-i-learned/) | [Wayback Archive](https://web.archive.org/web/20210623070938/https://securityboulevard.com/2021/06/i-triggered-a-ransomware-attack-heres-what-i-learned/)
 
-**Is There Hope for ICS and Supply Chain Security?**  
+##### Is There Hope for ICS and Supply Chain Security?
 2021-05-24 *Security Boulevard* [Article](https://securityboulevard.com/2021/05/is-there-hope-for-ics-and-supply-chain-security/) | [Wayback Archive](https://web.archive.org/web/20210524190519/https://securityboulevard.com/2021/05/is-there-hope-for-ics-and-supply-chain-security/)
 
-**Cybersecurity Predictions For 2021**  
+##### Cybersecurity Predictions For 2021
 2021-03-17 *Cyber Defense Magazine* [Article](https://www.cyberdefensemagazine.com/cybersecurity-predictions-for-2021/) |[Wayback Archive](https://web.archive.org/web/20210318020255/https://www.cyberdefensemagazine.com/cybersecurity-predictions-for-2021/)
 
-**OSAMiner: The Apple cryptojacker that hid for five years**  
+##### OSAMiner: The Apple cryptojacker that hid for five years
 2021-01-28 *Acronis Blog* [Article](https://www.acronis.com/en-us/blog/posts/osaminer-apple-cryptojacker-hid-five-years) | [Wayback Archive](https://web.archive.org/web/20210128194804/https://www.acronis.com/en-us/blog/posts/osaminer-apple-cryptojacker-hid-five-years)
 
-**5 Ways to Protect Online Learning Environments**  
+##### 5 Ways to Protect Online Learning Environments
 2020-10-23 *Security Boulevard* [Article](https://securityboulevard.com/2020/10/5-ways-to-protect-online-learning-environments/) | [Wayback Archive](https://web.archive.org/web/20201023191257/https://securityboulevard.com/2020/10/5-ways-to-protect-online-learning-environments/)
 
-**Securing Healthcare Data in a COVID World**  
+##### Securing Healthcare Data in a COVID World
 2020-09-01 *Security Boulevard* [Article](https://securityboulevard.com/2020/09/securing-healthcare-data-in-a-covid-world/) | [Wayback Archive](https://web.archive.org/web/20200903183508/https://securityboulevard.com/2020/09/securing-healthcare-data-in-a-covid-world/)
 
-**The 2019 Database Gold Rush**  
+##### The 2019 Database Gold Rush
 2019-08-08 *SiteLock Blog* [Article](https://www.sitelock.com/blog/the-2019-database-gold-rush/) | [Wayback Archive](https://web.archive.org/web/20190926004030/https://www.sitelock.com/blog/the-2019-database-gold-rush/)
 
-**The WordPress of the Future**  
+##### The WordPress of the Future
 2018-12-28 *SiteLock Blog* [Article](https://www.sitelock.com/blog/2018/12/wordpress-gutenberg/) | [Wayback Archive](https://web.archive.org/web/20190406053041/https://www.sitelock.com/blog/2018/12/wordpress-gutenberg/)
 
-**When a Good Thing Goes Bad – How Vulnerabilities Were Intentionally Built Into pipdig**  
+##### When a Good Thing Goes Bad – How Vulnerabilities Were Intentionally Built Into pipdig
 2018-04-06 *SiteLock Blog* [Article](https://www.sitelock.com/blog/2019/04/pipdig-vulnerability/) | [Wayback Archive](https://web.archive.org/web/20190406053808/https://www.sitelock.com/blog/2019/04/pipdig-vulnerability/)
 
-**Malware: The Gift That Keeps on Giving**  
+##### Malware: The Gift That Keeps on Giving
 2017-06-02 *Infosec Island* [Article](http://www.infosecisland.com/blogview/24935-Malware-The-Gift-That-Keeps-on-Giving.html) | [Wayback Archive](https://web.archive.org/web/20170606172629/http://www.infosecisland.com/blogview/24935-Malware-The-Gift-That-Keeps-on-Giving.html)
 
 #### Contributed Content
-##### Articles containing my quotes or research
-**What Does It Take To Be a Cybersecurity Researcher?**  
+Articles containing my quotes or research
+
+##### What Does It Take To Be a Cybersecurity Researcher?
 2021-04-12 *The Hacker News* [Article](https://thehackernews.com/2021/04/what-does-it-take-to-be-cybersecurity.html) | [Wayback Archive](https://web.archive.org/web/20210412165613/https://thehackernews.com/2021/04/what-does-it-take-to-be-cybersecurity.html)
 
-**ASIC Cyber Attack Linked to RBNZ Breach**  
+##### ASIC Cyber Attack Linked to RBNZ Breach
 2021-01-26 *The Australian* [Article](https://www.theaustralian.com.au/business/technology/asic-cyber-attack-linked-to-rbnz-breach/news-story/fa4e38dac3db4710bc5c8a46f607aa8d) (requires subscription)
 
-**ASIC Cyber Attack Linked to RBNZ Breach**  
+##### ASIC Cyber Attack Linked to RBNZ Breach
 2021-01-26 *Daily Telegraph* [Article](https://www.dailytelegraph.com.au/business/asic-cyber-attack-linked-to-rbnz-breach/news-story/fa4e38dac3db4710bc5c8a46f607aa8d) (requires subscription)
 
-**ASIC sic’d by sickening cyber security incident**  
+##### ASIC sic’d by sickening cyber security incident
 2021-01-26 *ITWire* [Article](https://www.itwire.com/security/asic-sic-d-by-sickening-cyber-security-incident.html) | [Wayback Archive](https://www.itwire.com/security/asic-sic-d-by-sickening-cyber-security-incident.html)
 
-**Acronis Cyber Readiness Report: Pandemic reveals cybersecurity gaps, need for new solutions**  
+##### Acronis Cyber Readiness Report: Pandemic reveals cybersecurity gaps, need for new solutions
 2020-09-09 *Acronis Blog* [Article](https://www.acronis.com/en-us/blog/posts/acronis-cyber-readiness-report-pandemic-reveals-cybersecurity-gaps-need-new-solutions) | [Report](https://dl.acronis.com/u/rc/WP_Acronis_Cyber_Readiness_Report_EN-US_200908.pdf) | [Wayback Archive (Article)](https://web.archive.org/web/20200910215942/https://www.acronis.com/en-us/blog/posts/acronis-cyber-readiness-report-pandemic-reveals-cybersecurity-gaps-need-new-solutions) | [Wayback Archive (Report)](https://dl.acronis.com/u/rc/WP_Acronis_Cyber_Readiness_Report_EN-US_200908.pdf)
 
-**VMBlog Expert Interview: Topher Tebow of Acronis Reveals Findings from their 2020 MSP Cybersecurity Readiness Survey**  
+##### VMBlog Expert Interview: Topher Tebow of Acronis Reveals Findings from their 2020 MSP Cybersecurity Readiness Survey
 2020-06-09 *VMBlog* [Article](https://vmblog.com/archive/2020/06/09/vmblog-expert-interview-topher-tebow-of-acronis-reveals-findings-from-their-2020-msp-cybersecurity-readiness-survey.aspx) | [Wayback Archive](https://web.archive.org/web/20200619171146/https://vmblog.com/archive/2020/06/09/vmblog-expert-interview-topher-tebow-of-acronis-reveals-findings-from-their-2020-msp-cybersecurity-readiness-survey.aspx)
 
-**Coronavirus crisis: Online church services attacked by hackers using child pornography**  
+##### Coronavirus crisis: Online church services attacked by hackers using child pornography
 2020-05-16 *Fox News* [Article](https://www.foxnews.com/tech/coronavirus-online-church-services-attacked-child-pornography-hackers) | [Wayback Archive](https://web.archive.org/web/20200515225920/foxnews.com/tech/coronavirus-online-church-services-attacked-child-pornography-hackers)
 
-**Expert Advice During World Password Day 2020**  
+##### Expert Advice During World Password Day 2020
 2020-05-07 *VMBlog* [Article](https://vmblog.com/archive/2020/05/07/expert-advice-during-world-password-day-2020.aspx#.Xsa7HxLQhhH) | [Wayback Archive](https://web.archive.org/web/20200521173300/https://vmblog.com/archive/2020/05/07/expert-advice-during-world-password-day-2020.aspx#.Xsa7WBLANhE)
 
-**7 Steps to Web App Security**  
+##### 7 Steps to Web App Security
 2019-09-03 *Dark Reading* [Article](https://www.darkreading.com/analytics/7-steps-to-web-app-security/d/d-id/1335695) | [Wayback Archive](https://web.archive.org/web/20190904202018/https://www.darkreading.com/analytics/7-steps-to-web-app-security/d/d-id/1335695)
