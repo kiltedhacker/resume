@@ -3,7 +3,7 @@
 See application for contact details.
 ***
 ## SUMMARY
-- Experienced Cybersecurity Professional with 10+ years of expertise in web application security, endpoint threat detection, and threat intelligence.
+- Experienced Cybersecurity Professional with 10+ years of expertise in threat intelligence, threat hunting, and web application security.
 -	Multiple certifications, including cybersecurity analysis, penetration testing, and network security.
 -	Experienced in cross-platform detection and analysis, including Windows, Linux, and macOS.
 -	Well-versed in malware and vulnerability analysis techniques and tools.
@@ -33,10 +33,10 @@ Project+ | CompTIA | 2YFXP64YLBFEQ535
 ### Cybersecurity Frameworks & Standards
 - NIST CSF, MITRE ATT&CK, PCI DSS, SOC2, ISO 27001, CIS, OWWASP Web Security Testing
 ### Threat Intelligence & Monitoring
-- __Threat Intelligence Technologies:__ ThreatConnect, Anomaly ThreatStream, IntSights, VirusTotal, AT&T AlienVault, IBM X-Force, Microsoft Defender Threat Intelligence, Wordfence Intelligence
+- __Threat Intelligence Technologies:__ Anomali ThreatStream, Recorded Future, ThreatConnect, Stairwell, IntSights, VirusTotal, AT&T AlienVault, IBM X-Force, Microsoft Defender Threat Intelligence, Flashpoint Ignite, Wordfence Intelligence
 - __Threat Intelligence Standards:__ STIX, TAXII
-- __Monitoring, SIEM, & SOAR Tools:__ Google Chronicle, Siemplify, QRadar, Snort, Cortex XSOAR, Grafana, Kibana, Splunk, ThreatConnect, Elastic SIEM, Elastic Stack, Logstash
-- __OSINT Tools:__ Maltego, Shodan
+- __Monitoring, SIEM, & SOAR Tools:__ CrowdStrike Falcon, Google Chronicle, Siemplify, Cofense Triage, QRadar, Snort, Cortex XSOAR, Grafana, Kibana, Splunk, ThreatConnect, Elastic SIEM, Elastic Stack, Logstash
+- __OSINT Tools:__ Maltego, Shodan, Google Trends
 ### Penetration Testing & Vulnerability Assessment
 - __DAST Tools:__ Burp Suite, OWASP ZAP, Nmap, Wireshark, BeEF, SQLmap, Metasploit
 - __SAST Tools:__ TrueCode, Veracode
