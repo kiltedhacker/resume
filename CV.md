@@ -119,7 +119,7 @@ DC480 is a group of hackers, infosec professionals, and learners new to cybersec
 PHX2600 is a group of hackers and technology enthusiasts who gather monthly to discuss code, tech, and other hacking related topics.
 ***
 ### PROFESSIONAL EXPERIENCE
-#### Cybersecurity Analyst - Threat Hunter
+#### Threat Hunter
 ##### Charles Schwab
 ###### Hybrid, Tempe, AZ
 - Play a critical role in analysis of disparate information and synthesizing into relevant actionable intelligence.
