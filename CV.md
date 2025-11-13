@@ -1,5 +1,5 @@
 # TOPHER TEBOW
-## CYBER THREAT HUNTER
+## CYBER THREAT INTELLIGENCE
 See application for contact details.
 ***
 ## SUMMARY
