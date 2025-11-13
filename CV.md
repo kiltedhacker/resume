@@ -15,6 +15,7 @@ See application for contact details.
 Certification | Issuing Organization | Certification Number
 ------------ | ------------- | -------------
 Systems Security Certified Professional (SSCP) | International Information System Security Certification Consortium (ISC2) | 2002157
+Certified Cloud Security Professional (CCSP) | International Information System Security Certification Consortium (ISC2) | 2002157
 CySA+ | CompTIA | 25QPHQLT22EEQ33K
 PenTest+ | CompTIA | F5W66WNT1EE4QWW8
 Security+ | CompTIA | 3WZQEMXSNEBE195G
@@ -25,18 +26,18 @@ Linux Essentials | Linux Professional Institute | 5agtvrf82v
 ### Project & IT
 Certification | Issuing Organization | Certification Number
 ------------ | ------------- | -------------
-Certificate in IT Service Management | ITIL Foundation | GR671340266BT
 Six Sigma Green Belt | The Council for Six Sigma Certification (CSSC) | PEqbg5qYw7
+Certificate in IT Service Management | ITIL Foundation | GR671340266BT
 Project+ | CompTIA | 2YFXP64YLBFEQ535
 ***
 ## TECHNICAL SKILLS OVERVIEW
 ### Cybersecurity Frameworks & Standards
 - NIST CSF, MITRE ATT&CK, PCI DSS, SOC2, ISO 27001, CIS, OWWASP Web Security Testing
 ### Threat Intelligence & Monitoring
-- __Threat Intelligence Technologies:__ Anomali ThreatStream, Recorded Future, ThreatConnect, Stairwell, IntSights, VirusTotal, AT&T AlienVault, IBM X-Force, Microsoft Defender Threat Intelligence, Flashpoint Ignite, Wordfence Intelligence
+- __Threat Intelligence Technologies:__ Anomali ThreatStream, Recorded Future, ThreatConnect, Stairwell, IntSights, VirusTotal, AT&T AlienVault, IBM X-Force, Microsoft Defender Threat Intelligence, Flashpoint Ignite, Intel471, Microsoft Defender Threat Intelligence, Wordfence Intelligence
 - __Threat Intelligence Standards:__ STIX, TAXII
 - __Monitoring, SIEM, & SOAR Tools:__ CrowdStrike Falcon, Google Chronicle, Siemplify, Cofense Triage, QRadar, Snort, Cortex XSOAR, Grafana, Kibana, Splunk, ThreatConnect, Elastic SIEM, Elastic Stack, Logstash
-- __OSINT Tools:__ Maltego, Shodan, Google Trends
+- __OSINT Tools:__ Maltego, Shodan, Google Trends, Flashpoint
 ### Penetration Testing & Vulnerability Assessment
 - __DAST Tools:__ Burp Suite, OWASP ZAP, Nmap, Wireshark, BeEF, SQLmap, Metasploit
 - __SAST Tools:__ TrueCode, Veracode
@@ -47,7 +48,7 @@ Project+ | CompTIA | 2YFXP64YLBFEQ535
 - __Programming & Scripting:__ Bash, PowerShell, Batch, Python, Perl, JavaScript, PHP, Lua, C, C#, Go, Rest API, Regular Expressions (Regex)
 - __Web & Design Frameworks:__ jQuery, Laravel, Angular, Bootstrap, Tailwind
 ### Cloud & Virtualization Technologies
-- __Cloud Platforms:__ Amazon Web Services (AWS), Azure
+- __Cloud Platforms:__ Amazon Web Services (AWS), Google Cloud Platform (GCP), Azure
 - __Virtualization & Containerization:__ Hyper-V, VMWare, VirtualBox, QEMU, oVirt, KVM, Virt-manager, Kubernetes, Docker, Vagrant
 ### Operating Systems and Web Servers
 - Linux, macOS, Windows, Android, iOS, Apache, IIS, Nginx
@@ -118,6 +119,19 @@ DC480 is a group of hackers, infosec professionals, and learners new to cybersec
 ##### Feb 2015 - Present
 PHX2600 is a group of hackers and technology enthusiasts who gather monthly to discuss code, tech, and other hacking related topics.
 ***
+### VOLUNTEER EXPERIENCE
+#### Virtual SME Response Team Handler, and TUF Team Trainer (volunteer roles)
+##### Feb 2020 - Present
+###### Hybrid, Phoenix, AZ
+- Leads incident response as part of vSRT, ensuring data accuracy and actionable insights.
+- Operationalizes and disseminates data to ACTRA touchpoints, promoting collaboration and efficiency.
+- Manages comprehensive data collection, ensuring high-quality incident response and intelligence sharing.
+- Conducts training on threat intelligence, including the threat intelligence platform utilized by the organization and toolsets available, such as those found in Kali Linux, enhancing team knowledge and skills.
+- Develops training modules for ACTRA to elevate the cybersecurity acumen of cohorts with varied experience.
+
+__Key Skills:__ Cybersecurity, Cyber Threat Intelligence, Threat Intelligence Platforms, Intelligence Gathering, Kali Linux, Penetration Testing Tools, OSINT Tools, Detection Engines (various), Malware Analysis, Training, Public Speaking, Technical Writing, Leadership, Collaboration, Microsoft 365, Google Suite
+
+***
 ### PROFESSIONAL EXPERIENCE
 #### Threat Hunter
 ##### Charles Schwab
@@ -130,6 +144,8 @@ PHX2600 is a group of hackers and technology enthusiasts who gather monthly to d
 - Build positive and productive relationships with the business and technology.
 - Ability to securely share actionable intelligence internally and externally while maintaining TLP.
 
+__Key Skills:__ Cybersecurity, Cyber Threat Hunting, Cyber Threat Intelligence, Threat Intelligence Platforms, Intelligence Gathering, OSINT Tools, Detection Engines (various), Technical Writing, Collaboration, Microsoft 365
+
 #### Cybersecurity Analyst & Technical Writer
 ##### Microsoft
 ###### Remote, U.S.
@@ -140,6 +156,8 @@ PHX2600 is a group of hackers and technology enthusiasts who gather monthly to d
 -	Elevated team knowledge on cybersecurity threats through meticulous research and documentation.
 -	Drove team collaboration to pinpoint and document evolving cyber threats.
 
+__Key Skills:__ Technical Writing, Cyber Threat Intelligence, Cybersecurity, Cyber Threat Analysis, Trend Analysis, Malware Analysis, Vulnerability Analysis, Publishing, Microsoft Defender, Microsoft 365, Content Management
+
 #### Threat Researcher
 ##### Defiant
 ###### Remote, U.S.
@@ -149,6 +167,8 @@ PHX2600 is a group of hackers and technology enthusiasts who gather monthly to d
 -	Drove threat awareness by producing key educational resources for identified threats.
 -	Boosted Defiant's threat intelligence by uncovering new trends in cybersecurity and publishing them to the Wordfence Intelligence platform.
 -	Contributed to multimedia production for educational videos, promoting cybersecurity awareness.
+
+__Key Skills:__ Cyber Threat Intelligence, Cybersecurity, Technical Writing, MITRE ATT&CK, OWASP Top 10, OWASP Web Security Testing, NIST CSF, Burp Suite, OWASP ZAP, Virtualization, Containerization, Cloud Services, MySQL, PostgreSQL, Vulnerability Research and Analysis, Trend Analysis, Wordfence Intelligence, Graphic Design, Publishing, Video Production, WordPress
 
 #### Senior Cyber Security Researcher
 ##### Acronis
@@ -161,6 +181,8 @@ PHX2600 is a group of hackers and technology enthusiasts who gather monthly to d
 -	Authored technical blog posts, enhancing the company's reputation in the cybersecurity field.
 -	Strengthened community relationships, facilitating the exchange of crucial threat intelligence.
 
+__Key Skills:__ Technical Writing, Cyber Threat Intelligence, Cybersecurity, Leadership, Malware Analysis, MITRE ATT&CK, Automation, Virtualization, Containerization, Trend Analysis, Vulnerability Analysis, Bash, Powershell, Python, Lua, C#, Graphic Design, Publishing, Video Production, Microsoft 365, Google Suite
+
 #### Manager, Web Security Research
 ##### SiteLock
 ###### Scottsdale, AZ
@@ -172,6 +194,8 @@ PHX2600 is a group of hackers and technology enthusiasts who gather monthly to d
 -	Authored technical and thought leadership articles, exhibiting an analytical understanding of industry trends.
 -	Analyzed emerging malware trends, improving the company’s threat intelligence stance.
 
+__Key Skills:__ Leadership, Training, Cyber Threat Intelligence, Cybersecurity, Web App Security, OWASP Top 10, OWASP Web Security Testing, Virtualization, Containerization, Kali Linux, Penetration Testing, OSINT Tools, SIEM, Malware Analysis, Vulnerability Analysis, Trend Analysis, Detection Engines (multiple), MySQL, SQLite, MariaDB, Cloud Platforms, Bash, Python, Perl, JavaScript, PHP, Linux, Windows, Technical Writing, Video Production, SOC2, ISO 27001, PCI DSS, Microsoft 365
+
 #### Web Vulnerability Research Analyst II
 ##### SiteLock
 ###### Scottsdale, AZ
@@ -180,6 +204,8 @@ PHX2600 is a group of hackers and technology enthusiasts who gather monthly to d
 -	Constructed comprehensive test cases using Vagrant and Docker, validating patch compatibility with former application versions.
 -	Analyzed web threats through code review and penetration testing, using tools like Burp Suite, ZAP, and Metasploit, to ensure robust system security.
 -	Evaluated CMS security, leading to the identification and mitigation of new vulnerabilities.
+
+__Key Skills:__ Cybersecurity, Web App Security, OWASP Top 10, OWASP Web Security Testing, Virtualization, Containerization, Kali Linux, Penetration Testing, Vulnerability Analysis, MySQL, SQLite, MariaDB, Cloud Platforms, Bash, Python, Perl, JavaScript, PHP, Linux, Windows, Technical Writing, Microsoft 365
 
 #### Web Security Research Analyst II
 ##### SiteLock
@@ -191,6 +217,8 @@ PHX2600 is a group of hackers and technology enthusiasts who gather monthly to d
 -	Developed and managed a suite of tools, optimizing company-wide processes.
 -	Launched a company podcast, significantly boosting brand visibility through creative media.
 -	Maintained team server and applications, ensuring optimal performance.
+
+__Key Skills:__ Leadership, Training, Cyber Threat Intelligence, Cybersecurity, Web App Security, OWASP Top 10, OWASP Web Security Testing, Virtualization, Containerization, Kali Linux, Penetration Testing, OSINT Tools, SIEM, Malware Analysis, Vulnerability Analysis, Trend Analysis, Detection Engines (multiple), MySQL, SQLite, MariaDB, Cloud Platforms, Bash, Python, Perl, JavaScript, PHP, Linux, Windows, Technical Writing, Video Production, Microsoft 365, Google Suite
 
 #### Lead Web Security Analyst
 ##### SiteLock
@@ -204,6 +232,8 @@ PHX2600 is a group of hackers and technology enthusiasts who gather monthly to d
 -	Delivered technical training to new hires, fostering a proficient and competent workforce.
 -	Mentored 10+ analysts, elevating team performance and career growth.
 
+__Key Skills:__ Leadership, Training, Cyber Threat Intelligence, Cybersecurity, Web App Security, OWASP Top 10, OWASP Web Security Testing, Kali Linux, Penetration Testing, OSINT Tools, SIEM, Malware Analysis, Vulnerability Analysis, Trend Analysis, Detection Engines (multiple), MySQL, SQLite, MariaDB, Cloud Platforms, Bash, Python, Perl, JavaScript, PHP, Linux, Windows, Technical Writing, SOC2, ISO 27001, PCI DSS, Google Suite
+
 #### Web Security Analyst II
 ##### SiteLock
 ###### Scottsdale, AZ
@@ -214,12 +244,16 @@ PHX2600 is a group of hackers and technology enthusiasts who gather monthly to d
 -	Mastered multiple programming languages and database formats for comprehensive threat analysis.
 -	Implemented effective problem-solving strategies to ensure website security.
 
+__Key Skills:__ Cyber Threat Intelligence, Cybersecurity, Web App Security, OWASP Top 10, OWASP Web Security Testing, OSINT Tools, SIEM, Malware Analysis, Vulnerability Analysis, Trend Analysis, Detection Engines (multiple), MySQL, SQLite, MariaDB, Cloud Platforms, Bash, Python, Perl, JavaScript, PHP, Linux, Windows, Technical Writing, Google Suite
+
 #### Hosting Support
 ##### Go Daddy
 ###### Gilbert, AZ
 - Assisted customers with troubleshooting issues in their shared hosting accounts.
 - Provided support via chat, phone, support tickets, and server support as needed.
 - Developed several web-based applications to streamline workflow and improve efficiency.
+
+__Key Skills:__ Customer Service, Technical Writing, Professional Communication, Server Troubleshooting, PHP, JavaScript, Microsoft Office Suite
 
 #### Chat Support
 ##### Go Daddy
@@ -228,17 +262,24 @@ PHX2600 is a group of hackers and technology enthusiasts who gather monthly to d
 - Utilized multiple chat applications to handle a range of inquiries, from basic maintenance to complex problem-solving.
 - Played a key role in training and coaching the support team in India.
 
+__Key Skills:__ Leadership, Training, Customer Service, Technical Writing, Professional Communication, Server Troubleshooting, Microsoft Office Suite
+
 #### Online Support
 ##### Go Daddy
 ###### Gilbert, AZ
 - Provided customer support for account, domain, shared hosting, and server issues via support ticket system.
 - Initiated the creation of scripts to automate repetitive tasks, enhancing team efficiency and effectiveness.
 
+__Key Skills:__ Customer Service, Technical Writing, Professional Communication, Server Troubleshooting, AutoHotKey Automation, Microsoft Office Suite
+
 #### Server Administrator
 ##### Terra Del Sol
 ###### Portland, OR
 - Built website using HTML, CSS, and PHP. Maintained website, updating and troubleshooting as needed.
 - Maintained the Windows server that housed the customer management software.
+
+__Key Skills:__ Web Application Technologies, Server Troubleshooting
+
 ***
 ### THOUGHT LEADERSHIP
 #### Cybersecurity Podcasts
@@ -272,6 +313,20 @@ Moderated discussion with a panel of cybersecurity experts
 ##### AZTC Cybersecurity Summit
 2020-12-02 *Arizona Tech Council and Arizona Cyber Threat Response Alliance*  
 Panel discussion on the subject of risk management
+
+#### Summary of Technical Writing
+June 2017 - March 2024 *Various Publications*
+My writing experience has allowed me to draw on experience from various aspects of cybersecurity to contribute to a wide range of cybersecurity publications. My work includes:
+- 223 threat descriptions published in the Microsoft Threat Encyclopedia.
+- 45 reports featured in Microsoft Defender Threat Reports.
+- 19 reports published to the Wordfence blog.
+- 5 articles featured in Security Boulevard.
+- 3 articles published by Adam Fowler IT.
+- 1 article published in Bleeping Computer.
+- 1 article featured in Cyber Defense Magazine.
+- 2 reports published on the Acronis blog.
+- 4 reports published to the SiteLock blog.
+- 1 article published in Infosec Island.
 
 #### Published Articles
 ##### Cross-Site Scripting Vulnerability In Download Manager Plugin
