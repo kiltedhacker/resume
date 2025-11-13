@@ -316,6 +316,7 @@ Panel discussion on the subject of risk management
 
 #### Summary of Technical Writing
 June 2017 - March 2024 *Various Publications*
+
 My writing experience has allowed me to draw on experience from various aspects of cybersecurity to contribute to a wide range of cybersecurity publications. My work includes:
 - 223 threat descriptions published in the Microsoft Threat Encyclopedia.
 - 45 reports featured in Microsoft Defender Threat Reports.
