@@ -121,7 +121,7 @@ PHX2600 is a group of hackers and technology enthusiasts who gather monthly to d
 ***
 ### VOLUNTEER EXPERIENCE
 #### Virtual SME Response Team Handler, and TUF Team Trainer (volunteer roles)
-##### Feb 2020 - Present
+##### Arizona Cyber Threat Response Alliance (ACTRA)
 ###### Hybrid, Phoenix, AZ
 - Leads incident response as part of vSRT, ensuring data accuracy and actionable insights.
 - Operationalizes and disseminates data to ACTRA touchpoints, promoting collaboration and efficiency.
@@ -172,7 +172,7 @@ __Key Skills:__ Cyber Threat Intelligence, Cybersecurity, Technical Writing, MIT
 
 #### Senior Cyber Security Researcher
 ##### Acronis
-###### Tempe, AZ
+###### Hybrid, Tempe, AZ
 -	Worked as a Cyber Protection Operations Center (CPOC) member to monitor and respond to alerts from AI, behavioral, and static detections across all endpoints using Acronis Cyber Protect products.
 -	Utilized regex and behavioral analysis to write malware detection rules for Acronis’ custom detection engine, significantly reducing risks to Windows, macOS, and Linux systems.
 -	Made use of custom scripts to perform penetration testing on desktop applications to identify vulnerabilities in Windows, macOS, and Linux applications.
